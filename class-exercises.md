@@ -21,6 +21,8 @@ Something I've discovered helps me write, because I like to write at night, is u
 
 Google Drive is a storage tool I use consistently on large projects, such as a novel, to back my work up regularly. I use this instead of OneDrive because I don't like how you cannot easily make space on one's laptop. Google Drive is easy because I can drop it all into a local folder, and it will update automatically online.
 
+In terms of techniques, I find notebook writing particularly helpful when it comes to editing and idea generation. I like to break sentences down when editing to make them as neat and economical as possible, and quickly jot ideas down and solve problems on paper too. I find it a bit more portable this way, too, so no matter where I am, I can whip it out and get a few things down.
+
 #### ***How do these tools shape the way you write (e.g. constrain the way you write or facilitate your writing)?***
 
 As I mentioned above, all of these tools help me organise and find things with ease. This is absolutely necessary to me writing, because any impediment on my focus can mean I lose a rhythm I've found to the story.
