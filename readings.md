@@ -4,7 +4,7 @@
 
 ## Week 2
 #### Scholars Contemplate the Irish Beer
-In the description, this admits to be a rethink of Taroko Gorge, whereby it emulates teh sky with words - a deep blue colour as the background and white text forming the poetry. It is about different scholars and poetsconsidering natural landscape with the background of alcohol (perhaps the cloud theme is a metaphor for consumption). The text, in hindsight, might have another way of reading it where the generation is a description of Irish beer's taste, using natural imagery to convey it.
+In the description, this admits to be a rethink of Taroko Gorge, whereby it emulates the sky with words - a deep blue colour as the background and white text forming the poetry. It is about different scholars and poetsconsidering natural landscape with the background of alcohol (perhaps the cloud theme is a metaphor for consumption). The text, in hindsight, might have another way of reading it where the generation is a description of Irish beer's taste, using natural imagery to convey it.
 
 Had trouble launching a number of programs before this one, because of Java, or limitations based on my laptop or OS. 
 
