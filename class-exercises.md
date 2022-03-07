@@ -37,7 +37,7 @@ Electronic literature is defined as a text that has been made, and/or can only b
 
 Of course, print literature are texts that are made without such digital assistance or construction. The term 'print' likely comes from before electronic methods of reading, when writing was simply produced as a paperback or other physical, printed form. Now with the introduction of E-readers and online texts, it has transformed the meaning slightly as these means of reading are included.
 
-It is mainly important to recognise that if a text hasn't altered, influenced, or derived from a digital program, then it is considered print literature, but if it has been, it is electronic literature.
+It is mainly important to recognise that if a text hasn't been altered, influenced, or derived from a digital program, then it is considered print literature, but if it has been, it is electronic literature.
 
 #### What are some of the qualities of electronic literature?
 
