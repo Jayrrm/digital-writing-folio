@@ -46,3 +46,20 @@ Electronic literature comes in varying forms. Some pieces encourage large amount
 Hypertext fiction is an example of the former, where links are used as a method of reader intereaction. Different choices are often posed to the reader who then clicks on a link that directs them to the next part of that story. Another is where texts utillise an interface that allows readers to type in commands that directs the character in the story as to where to go, what to do, and how they interact in general with the world.
 
 Generation is an example of the latter, where programs generate poetry or sentences through different algorithms. This doesn't require reader interaction, but it does mean a unique experience occurs almost every time (depending on the amount of combinations allowed for).
+
+### Select a remixed Tarako Gorge
+Inside the House - Adam Sylvain
+
+#### What aspects of the remix are the same 
+
+The general structure of the webpage is very similar. The text runs from the top left of the page downwards, and there is creditation to the right of the screen. It seems like the structure of the poem itself follows an identical formula with a different wordpool. In other words, lines from the original can be matched with lines from the remix, as well as how certain stanzas are structure. For example, multiple short sentences following one another followed up by a longer sentence is a stanza structure that is copied. In this way, most of the structural elements of this generator are identical.
+
+#### What aspects of the remix are different?
+
+The first thing the viewer sees is the picture in the background of a dark hallway in an abandoned building. It is purposefully ominous, and immediately the viewer is pulled into a more horror-like landscape, opposed to the green, natural setting of Tarako Gorge.
+
+Apart from this, the colours of the text are different, and the background is different. Green is replaced with black and the pink with white. Then, the words used are different as well, each been either inspired or taken from horro book House of Leaves. Hence, the actual inspiration for this generator is slightly different, and the author has combined both ideas to create a dark, scary poetry generator.
+
+#### Is the remix successful (why or why not)?
+
+I think the remix is successful, but doesn't hold attention the same waya Tarako Gorge does. The initial surprise of the picture, coupled with the first few paragraphs actually sets a frightening tone, but after a bit of reading the themes get slightly repetitive. It is clear it's not building up to anything, so the sense of suspense is lost after half a minute of reading. Horror's biggest tool is suspense, and while you don't know what to expect in the beginning, it works. After a little bit of reading, however, I think it falls short.
