@@ -15,3 +15,10 @@ Seems to be an easier piece to navigate than Shade. Mainly because it lets you k
 This is probably my favourite of the bunch. It tells what seems to be mini narratives with words as representations of objects. The words move across or up the screen to depict what is happening, and they occur one after the other automatically. I think I like the visual appeal of this, but also the opportunities it opens up. I am consitently wondering what will happen next.
 
 I did also have a slight problem at one point with the program though, getting stuck on the 'tower' bit where it got stuck and didn't move on. THe video suggests it wasn't the end of the program, so may have to test this on a different browser or computer at one point.
+
+#### Kissing the Steak (Chapter)
+This explores three types of text generators and methods to go about them.
+
+The first is **permutations**, which rearrange certain words in different orders, which look somewhat formualaic but indeed have different meanings. Any kind of repetition at the beginning of sentences or of words indicates a permutation generator.
+
+The second is **slots** whereby a prestructured sentence has words substituted in specfiic spots by the computer, who randomly draws them from a word pool. Hence the name slots, the program automatically fills the slots allocated to its function.
