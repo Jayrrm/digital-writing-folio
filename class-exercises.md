@@ -28,3 +28,21 @@ In terms of techniques, I find notebook writing particularly helpful when it com
 As I mentioned above, all of these tools help me organise and find things with ease. This is absolutely necessary to me writing, because any impediment on my focus can mean I lose a rhythm I've found to the story.
 
 One issue I sometimes find is that I have a lot of different documents that I save as a result of this organisation, which clogs up storage and makes things a bit messy. This hasn't been a big issue until now, but somewhere down the line if I need to trawl through different files to find a certain sentence or change, this will definitely end up being a problem.
+
+### Week 2
+
+#### How is electronic literature different from print literature?
+
+Electronic literature is defined as a text that has been made, and/or can only be interacted with assistance from a program or other digital means.
+
+Of course, print literature are texts that are made without such digital assistance or construction. The term 'print' likely comes from before electronic methods of reading, when writing was simply produced as a paperback or other physical, printed form. Now with the introduction of E-readers and online texts, it has transformed the meaning slightly as these means of reading are included.
+
+It is mainly important to recognise that if a text hasn't altered, influenced, or derived from a digital program, then it is considered print literature, but if it has been, it is electronic literature.
+
+#### What are some of the qualities of electronic literature?
+
+Electronic literature comes in varying forms. Some pieces encourage large amounts of interaction from the reader which changes how a piece is read or made. This means the experience is, in some pieces, different each time. Others, however, require very little interaction and can simply be played and watched by the reader through a computer.
+
+Hypertext fiction is an example of the former, where links are used as a method of reader intereaction. Different choices are often posed to the reader who then clicks on a link that directs them to the next part of that story. Another is where texts utillise an interface that allows readers to type in commands that directs the character in the story as to where to go, what to do, and how they interact in general with the world.
+
+Generation is an example of the latter, where programs generate poetry or sentences through different algorithms. This doesn't require reader interaction, but it does mean a unique experience occurs almost every time (depending on the amount of combinations allowed for).
