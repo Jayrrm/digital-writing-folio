@@ -22,3 +22,17 @@ This explores three types of text generators and methods to go about them.
 The first is **permutations**, which rearrange certain words in different orders, which look somewhat formualaic but indeed have different meanings. Any kind of repetition at the beginning of sentences or of words indicates a permutation generator.
 
 The second is **slots** whereby a prestructured sentence has words substituted in specfiic spots by the computer, who randomly draws them from a word pool. Hence the name slots, the program automatically fills the slots allocated to its function.
+
+## Week 3
+
+#### Digital Poetics and the Problem of Reading
+
+This text looks at the different aesthetic values and functions of various modes of digital poetry.
+
+A quote that has struck me as interesting: "To my mind, the poetics of this piece, its conceptualization and facilitation, are more important than the peotry it generates." This is said in reference to a piece whereby text inputed by other previous uses of the site is paired randomly with images users have also uploaded, which creates an amusing result. Often the pairings are oxymoronic, which make them sometimes funny, sometimes depressing. In this case, it's the idea and the way it's programmed that Memmott enjoys. "The *intertainment* is more potent than the entertainment."
+
+I think it is also an interesting premise he explores: "literary hypermedia's redefnition of the enterprise of 'reading'".
+
+He also explores the way digital poetry has changed not only the visual and auditory aspects of reading, but also "the performative/participatory, the computational and programmatic,".
+
+Memmott writes about the struggles to classify digital poetry into categories, what he labels as "taxonomadic". Interestingly, he says that whilst this is often considered great by creatives, it is criticised by academics. He writes that academics should be receptive to this taxonomadism, as it is simply the way digital poetry functions and evolves. I wholeheartedly agree with Memmott on this, and it makes me consider what the productive purpose of categorising art such as digital writing is, unless to strip it of (some of) its originality.
