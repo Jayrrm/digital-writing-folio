@@ -65,3 +65,11 @@ Apart from this, the colours of the text are different, and the background is di
 I think the remix is successful, but doesn't hold attention the same waya Tarako Gorge does. The initial surprise of the picture, coupled with the first few paragraphs actually sets a frightening tone, but after a bit of reading the themes get slightly repetitive. It is clear it's not building up to anything, so the sense of suspense is lost after half a minute of reading. Horror's biggest tool is suspense, and while you don't know what to expect in the beginning, it works. After a little bit of reading, however, I think it falls short.
 
 I also don't think it captures the same sense of movement that Tarako Gorge does. It feels more like standing in one room, and I feel like the photo, whilst setting the scene to begin with and being slightly off-putting, it also sets you in place so it's harder to imagine moving about in the setting.
+
+[My To Make a Dadaist Poem Remix](https://pineapple-amusing-cart.glitch.me)
+
+## Week 4
+
+### Remix of We Walk To You
+
+[Man's Best Frienemy](https://spurious-knotty-pangolin.glitch.me)
